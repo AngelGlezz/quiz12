@@ -1,0 +1,424 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuándo fue la última vez que Chivas y Águilas se enfrentaron en liguilla?",
+      "respuestas": [
+        {
+          "respuesta": "Verano 1999",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Clausura 2016",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Apertura 2015",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Clausura 2005",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién marcó el gol del triunfo del América en el último Clásico disputado en liguilla?",
+      "respuestas": [
+        {
+          "respuesta": "Oribe Peralta",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Darwin Quintero",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Enrique Esqueda",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Cuauhtémoc Blanco",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuál fue el resultado del Clásico de torneo regular en este Apertura 2016?",
+      "respuestas": [
+        {
+          "respuesta": "América ganó 3-0",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Empate 1-1",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Chivas ganó 3-0",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Chivas ganó 3-1",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué jugador marcó dos goles en el Clásico del torneo regular?",
+      "respuestas": [
+        {
+          "respuesta": "Isaac Brizuela",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Orbelín Pineda",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Carlos Peña",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Chofis López",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién marcó el gol de América en el Clásico de Copa MX?",
+      "respuestas": [
+        {
+          "respuesta": "Osmar Mares",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Darwin Quintero",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Oribe Peralta",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Michael Arroyo",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién marcó el gol de Chivas en el Clásico de Copa MX?",
+      "respuestas": [
+        {
+          "respuesta": "Isaac Brizuela",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Alan Pulido",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Aris Hernández",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Chofis López",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué jugador falló el penalti definitivo en las semifinales de la Copa MX?",
+      "respuestas": [
+        {
+          "respuesta": "Alan Pulido",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Orbelín Pineda",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Michael Arroyo",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Osmar Mares",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuál fue el último torneo en que Chivas eliminó al América en liguilla?",
+      "respuestas": [
+        {
+          "respuesta": "1987-1988",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Apertura 2006",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Clausura 2008",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Verano 1997",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuántas veces ha eliminado América a Chivas en liguilla?",
+      "respuestas": [
+        {
+          "respuesta": "Dos",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Cuatro",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Siete",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Cinco",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién es el máximo goleador de América en Clásicos?",
+      "respuestas": [
+        {
+          "respuesta": "Luis Roberto Alves “Zague”",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Cuauhtémoc Blanco",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Enrique Borja",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Salvador Cabañas",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuándo se dio el último Clásico?",
+      "respuestas": [
+        {
+          "respuesta": "Jornada 7 del torneo regular",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Semifinales de la Copa MX",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Amistoso en Carson",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Jornada 15 del torneo regular",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuál fue el resultado del último Clásico?",
+      "respuestas": [
+        {
+          "respuesta": "1-2 Chivas",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "1-1; América ganó en penales",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "0-0; Chivas ganó en penales",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "1-1; Chivas ganó en penales",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿En dónde se disputó el primer Clásico?",
+      "respuestas": [
+        {
+          "respuesta": "Estadio Jalisco",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Parque Oblatos",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Estadio Azteca",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Estadio Azul (Ciudad de los Deportes)",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién es el máximo goleador de Chivas en Clásicos?",
+      "respuestas": [
+        {
+          "respuesta": "Salvador “Chava” Reyes",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Omar Bravo",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Ignacio Vázquez",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Adolfo Bautista",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuál fue el resultado del último Clásico jugado en el Estadio de Chivas?",
+      "respuestas": [
+        {
+          "respuesta": "Ganó América 4-0",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Ganó Chivas 1-0",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Empate 0-0",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Empate 1-1",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién marcó el gol de Chivas en el último Clásico disputado en liguilla?",
+      "respuestas": [
+        {
+          "respuesta": "Orbelín Pineda",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Alan Pulido",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Omar Bravo",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Javier Ledesma",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuándo se jugó el primer Clásico en el Estadio Chivas?",
+      "respuestas": [
+        {
+          "respuesta": "Apertura 2012",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Apertura 2010",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Clausura 2010",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Clausura 2011",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿En dónde se jugó el último Clásico?",
+      "respuestas": [
+        {
+          "respuesta": "Soldier Field",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "John F. Kennedy Stadium",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Estadio Chivas",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Estadio Azteca",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué jugador falló un penalti decisivo en el último Clásico de liguilla?",
+      "respuestas": [
+        {
+          "respuesta": "Carlos Peña",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Marco Fabián",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Omar Bravo",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Javier Eduardo López",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "Jugador emblemático de Chivas que pasó al América en 1999",
+      "respuestas": [
+        {
+          "respuesta": "Benjamín Galindo",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Demetrio Madero",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Luis García",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Ramón Ramírez",
+          "tipo": "true"
+        }
+      ]
+    }
+  ]
+}
